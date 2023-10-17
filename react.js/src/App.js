@@ -3,7 +3,8 @@ import './App.css';
 import Header from './Components/Header';
 import Sidebar from './Components/Sidebar';
 import MainContent from './Components/MainContent';
-import Counter from './Components/Counter'; // Import the Counter component
+import Counter from './Components/Counter';
+import Form from './Components/Form'; // Import the Form component
 
 function App() {
   const features = ["Feature 1", "Feature 2", "Feature 3"];
@@ -13,9 +14,10 @@ function App() {
       <Header />
       <div className="container">
         <Sidebar />
-        <MainContent features={features} /> {/* Pass features as a prop to MainContent */}
+        <MainContent features={features} />
       </div>
-      <Counter /> {/* Include the Counter component */}
+      <Counter />
+      <Form /> {/* Include the Form component */}
     </div>
   );
 }
