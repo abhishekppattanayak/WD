@@ -1,0 +1,28 @@
+main {
+    display: inline-block;
+    background-color: aliceblue;
+    width: 85%;
+}  
+main h2 {
+font-size: 24px;
+margin-bottom: 10px;
+}
+
+main p {
+font-size: 16px;
+line-height: 1.4;
+}
+
+.container {
+display: flex;
+justify-content: space-between;
+}
+
+.container aside {
+flex: 0 0 200px;
+}
+
+.container main {
+flex: 1;
+}
+  

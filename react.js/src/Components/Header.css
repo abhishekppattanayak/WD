@@ -1,0 +1,23 @@
+header {
+    background-color: #007BFF; /* Header background color */
+    padding: 10px;
+    color: white;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    padding-left: 33px;
+  }
+  
+  header nav ul li {
+    margin-right: 20px;
+  }
+  
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  

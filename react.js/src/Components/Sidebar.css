@@ -1,0 +1,23 @@
+.sidebar {
+    display: inline-block;
+    height: 100%;
+    width: 15%; 
+    background-color: #333;
+    color: white;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 10px 0;
+  }
+  
+  .sidebar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+  }
+  
