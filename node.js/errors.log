@@ -1,0 +1,12 @@
+2023-10-17T11:22:06.848Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t1.txt'
+2023-10-17T11:22:06.853Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t2.txt'
+2023-10-17T11:22:06.853Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t4.txt'
+2023-10-17T11:22:06.854Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t3.txt'
+2023-10-17T11:25:08.008Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t1.txt'
+2023-10-17T11:25:08.012Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t3.txt'
+2023-10-17T11:25:08.013Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t2.txt'
+2023-10-17T11:25:08.013Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\t4.txt'
+2023-10-17T11:28:04.061Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\file\t1.txt'
+2023-10-17T11:28:04.066Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\file\t3.txt'
+2023-10-17T11:28:04.066Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\file\t4.txt'
+2023-10-17T11:28:04.066Z - Error: ENOENT: no such file or directory, open 'D:\WD\node.js\file\t2.txt'
