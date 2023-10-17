@@ -1,2 +1,2 @@
 The main branch does not actually have any source codes.
-Rather, all essentially branched to their respective branches.
+Rather, all are essentially branched to their respective branches.
